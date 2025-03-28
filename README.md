@@ -10,4 +10,4 @@ Uziel Hola!!!!!
 
 // Abel: Hola mundo!
 
-Luciana: Me gusta la programacion
+Luciana: Me gusta el procesado de datos en Python
